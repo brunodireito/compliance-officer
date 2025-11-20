@@ -1,0 +1,2 @@
+Our company manages user access through a formal Role-Based Access Control (RBAC) policy that has been approved by the board. We do not yet have automated provisioning based on HR roles, but we conduct manual access reviews annually to ensure compliance.
+GO

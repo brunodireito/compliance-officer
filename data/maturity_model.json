@@ -1,0 +1,164 @@
+{
+  "topics": {
+    "1.1 Alinhamento Político e Legal": {
+      "levels": {
+        "0": "Nível 0 (Não Abordado): O alinhamento com diretrizes legais (ex: Lei da Ciência) e requisitos de financiadores (FCT, Horizon Europe) não é mencionado.",
+        "1": "Nível 1 (Intencional): A política menciona o alinhamento legal/político de forma superficial ou apenas como princípio, sem caráter obrigatório.",
+        "2": "Nível 2 (Regulado): A política identifica claramente as leis e requisitos aplicáveis e define o seu cumprimento como mandatório.",
+        "3": "Nível 3 (Suportado): A política liga o cumprimento legal a serviços de suporte (ex: gabinetes jurídicos ou de projetos) que auxiliam na conformidade."
+      }
+    },
+    "1.2 Conformidade com Padrões Internacionais": {
+      "levels": {
+        "0": "Nível 0 (Não Abordado): Princípios internacionais (UNESCO, DORA, Declaração de Barcelona) não são referidos.",
+        "1": "Nível 1 (Intencional): A política endossa estes princípios como valores (aspiracional), mas sem diretrizes práticas de implementação.",
+        "2": "Nível 2 (Regulado): A política integra formalmente os princípios internacionais nas suas regras operacionais e de avaliação.",
+        "3": "Nível 3 (Suportado): Existem mecanismos ou serviços específicos para operacionalizar e monitorizar estes princípios."
+      }
+    },
+    "2.1 Clareza e Obrigatoriedade dos Requisitos": {
+      "levels": {
+        "0": "Nível 0 (Não Abordado): A política é vaga, confusa ou omissa quanto à obrigatoriedade.",
+        "1": "Nível 1 (Intencional): Linguagem ambígua (ex: 'recomenda-se', 'incentiva'). Não distingue claramente o mandatório do opcional.",
+        "2": "Nível 2 (Regulado): Distinção clara entre requisitos obrigatórios ('deve') e recomendações. Linguagem concisa e direta.",
+        "3": "Nível 3 (Suportado): A estrutura do documento facilita a consulta e existem guias de suporte à interpretação."
+      }
+    },
+    "2.2 Definição de Papéis e Responsabilidades": {
+      "levels": {
+        "0": "Nível 0 (Não Abordado): Não define quem faz o quê.",
+        "1": "Nível 1 (Intencional): Menciona agentes (investigadores, serviços) de forma genérica, sem atribuir deveres concretos.",
+        "2": "Nível 2 (Regulado): Define inequivocamente os deveres, direitos e responsabilidades de cada agente (Instituição, UI, Investigadores, Estudantes).",
+        "3": "Nível 3 (Suportado): Os papéis estão integrados nos processos institucionais e organogramas de serviço (ex: Data Stewards nomeados)."
+      }
+    },
+    "3.1 Publicações - Mandato e Âmbito": {
+      "levels": {
+        "0": "Nível 0 (Não Abordado): Sem mandato de depósito definido.",
+        "1": "Nível 1 (Intencional): Recomenda o depósito mas não define claramente a quem se aplica ou a que tipos de publicação.",
+        "2": "Nível 2 (Regulado): Define claramente o mandato (obrigatório), a quem se aplica (ex: docentes, alunos) e o tipo de publicações (artigos, teses).",
+        "3": "Nível 3 (Suportado): O mandato está integrado com sistemas (CRIS, Repositório) que facilitam ou automatizam o depósito."
+      }
+    },
+    "3.2 Publicações - Estratégia": {
+      "levels": {
+        "0": "Nível 0 (Não Abordado): Sem estratégia de publicação definida.",
+        "1": "Nível 1 (Intencional): Sugere critérios vagos para publicação.",
+        "2": "Nível 2 (Regulado): Especifica regras claras para seleção de repositórios e vias de publicação (ex: Via Verde/Dourada).",
+        "3": "Nível 3 (Suportado): Fornece ferramentas, listas de repositórios recomendados ou fundos de apoio à publicação."
+      }
+    },
+    "3.3 Publicações - Prazos": {
+      "levels": {
+        "0": "Nível 0 (Não Abordado): Prazos e embargos não mencionados.",
+        "1": "Nível 1 (Intencional): Menciona prazos de forma idealista ou sem rigor.",
+        "2": "Nível 2 (Regulado): Define momentos exatos para depósito/publicação e regula os períodos de embargo permitidos.",
+        "3": "Nível 3 (Suportado): Sistemas institucionais gerem e alertam automaticamente sobre prazos e fins de embargo."
+      }
+    },
+    "3.4 Publicações - Licenciamento": {
+      "levels": {
+        "0": "Nível 0 (Não Abordado): Licenças de utilização não mencionadas.",
+        "1": "Nível 1 (Intencional): Menciona licenças (ex: CC) sem diretriz de seleção.",
+        "2": "Nível 2 (Regulado): Define o espaço de licenças permitidas (ex: CC BY) e diretrizes claras de seleção.",
+        "3": "Nível 3 (Suportado): Apoio jurídico ou ferramentas integradas auxiliam na escolha correta da licença."
+      }
+    },
+    "4.1 Dados Abertos - Princípios FAIR": {
+      "levels": {
+        "0": "Nível 0 (Não Abordado): Princípios FAIR não mencionados.",
+        "1": "Nível 1 (Intencional): Aponta FAIR como objetivo geral ('tão aberto quanto possível...'), mas sem exigência formal.",
+        "2": "Nível 2 (Regulado): Exige explicitamente o cumprimento dos princípios FAIR nos dados produzidos.",
+        "3": "Nível 3 (Suportado): Infraestrutura técnica e serviços validam ou garantem a conformidade FAIR automaticamente."
+      }
+    },
+    "4.2 Plano de Gestão de Dados (PGD)": {
+      "levels": {
+        "0": "Nível 0 (Não Abordado): PGD não mencionado.",
+        "1": "Nível 1 (Intencional): Recomenda a criação de PGDs.",
+        "2": "Nível 2 (Regulado): Define o PGD como obrigatório para projetos, com regras de criação e atualização.",
+        "3": "Nível 3 (Suportado): Disponibiliza software institucional ou modelos de PGD e apoio técnico especializado."
+      }
+    },
+    "4.3 Gestão de Dados Ativos": {
+      "levels": {
+        "0": "Nível 0 (Não Abordado): Armazenamento durante o projeto (dados ativos) não abordado.",
+        "1": "Nível 1 (Intencional): Recomenda segurança e armazenamento sem especificar meios.",
+        "2": "Nível 2 (Regulado): Estabelece requisitos obrigatórios de armazenamento, segurança e responsabilidade durante o projeto.",
+        "3": "Nível 3 (Suportado): A instituição fornece infraestruturas seguras e suportadas para dados ativos."
+      }
+    },
+    "4.4 Depósito de Dados": {
+      "levels": {
+        "0": "Nível 0 (Não Abordado): Depósito final de dados não mencionado.",
+        "1": "Nível 1 (Intencional): Incentiva o depósito de dados em repositórios.",
+        "2": "Nível 2 (Regulado): Especifica diretrizes sobre onde depositar (repositórios confiáveis/certificados) e o que depositar.",
+        "3": "Nível 3 (Suportado): Integração técnica com repositórios de dados institucionais ou externos."
+      }
+    },
+    "5.1 Sustentabilidade de Infraestruturas": {
+      "levels": {
+        "0": "Nível 0 (Não Abordado): Infraestruturas não abordadas.",
+        "1": "Nível 1 (Intencional): Reconhece a necessidade de infraestruturas digitais.",
+        "2": "Nível 2 (Regulado): Prevê investimento estratégico obrigatório em repositórios e serviços de qualidade.",
+        "3": "Nível 3 (Suportado): Infraestruturas existem, têm financiamento garantido a longo prazo e cumprem padrões de qualidade."
+      }
+    },
+    "6.1 Estrutura de Governança": {
+      "levels": {
+        "0": "Nível 0 (Não Abordado): Governança inexistente.",
+        "1": "Nível 1 (Intencional): Menciona a necessidade de gestão ou coordenação.",
+        "2": "Nível 2 (Regulado): Define uma estrutura de governança clara para a implementação da política.",
+        "3": "Nível 3 (Suportado): A estrutura de governança está ativa, operacional e tem recursos alocados."
+      }
+    },
+    "6.2 Alocação de Recursos": {
+      "levels": {
+        "0": "Nível 0 (Não Abordado): Recursos não mencionados.",
+        "1": "Nível 1 (Intencional): Menciona vaga necessidade de recursos.",
+        "2": "Nível 2 (Regulado): Garante formalmente a alocação de recursos financeiros, humanos e tecnológicos.",
+        "3": "Nível 3 (Suportado): Os recursos estão efetivamente disponíveis e em uso para suporte à GDI."
+      }
+    },
+    "6.3 Capacitação de Recursos Humanos": {
+      "levels": {
+        "0": "Nível 0 (Não Abordado): Formação e capacitação não mencionadas.",
+        "1": "Nível 1 (Intencional): Incentiva a formação dos envolvidos.",
+        "2": "Nível 2 (Regulado): Estabelece o fornecimento sistemático e obrigatório de capacitação a todos os membros (investigadores, staff).",
+        "3": "Nível 3 (Suportado): Existe um plano de formação ativo, regular e materiais de suporte disponíveis."
+      }
+    },
+    "6.4 Integração Abrangente de Práticas de CA": {
+      "levels": {
+        "0": "Nível 0 (Não Abordado): Práticas como Ciência Cidadã, REA ou Open Code ignoradas.",
+        "1": "Nível 1 (Intencional): Menciona estas práticas como positivas ou desejáveis.",
+        "2": "Nível 2 (Regulado): Incentiva formalmente a adoção destas práticas em todo o ciclo de investigação.",
+        "3": "Nível 3 (Suportado): Existem plataformas, programas ou incentivos específicos para suportar Ciência Cidadã, REA e Código Aberto."
+      }
+    },
+    "6.5 Revisão e Alinhamento dos Incentivos": {
+      "levels": {
+        "0": "Nível 0 (Não Abordado): Avaliação de carreiras não mencionada.",
+        "1": "Nível 1 (Intencional): Reconhece que a avaliação deve mudar para valorizar a Ciência Aberta.",
+        "2": "Nível 2 (Regulado): A instituição compromete-se formalmente a rever os sistemas de avaliação e progressão.",
+        "3": "Nível 3 (Suportado): Novos critérios de avaliação (qualitativos, impacto societal) já estão implementados e em vigor."
+      }
+    },
+    "7.1 Mecanismo de Monitorização": {
+      "levels": {
+        "0": "Nível 0 (Não Abordado): Monitorização não prevista.",
+        "1": "Nível 1 (Intencional): Menciona a intenção de monitorizar a política.",
+        "2": "Nível 2 (Regulado): Define um sistema de monitorização explícito, sistemático e com indicadores definidos.",
+        "3": "Nível 3 (Suportado): Existem ferramentas (dashboards, relatórios automáticos) para monitorização contínua da eficácia."
+      }
+    },
+    "7.2 Gestão da Conformidade e Revisão": {
+      "levels": {
+        "0": "Nível 0 (Não Abordado): Revisão e gestão de não conformidade não previstas.",
+        "1": "Nível 1 (Intencional): Menciona possibilidade de revisão futura.",
+        "2": "Nível 2 (Regulado): Define processo formal para gestão de não conformidade e revisão periódica da política.",
+        "3": "Nível 3 (Suportado): O processo de revisão é suportado por dados de monitorização e feedback contínuo."
+      }
+    }
+  }
+}
