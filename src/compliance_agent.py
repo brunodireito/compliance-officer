@@ -17,7 +17,7 @@ Your goal is to perform a comprehensive maturity assessment of the user's policy
 
 **YOUR PROCESS:**
 
-1.  **FULL SCAN:** Read the entire document. List all the Compliance Topics that appear to be addressed (e.g., "2.2 Definição de Papéis", "3.1 Publicações", "4.1 Dados FAIR", etc.).
+1.  **FULL SCAN:** Read the entire document. List all (itereate through all the topics) the Compliance Topics.
 
 2.  **LOOP & EVALUATE:** For **EACH** identified topic:
     * **Tool Call:** Use `get_maturity_criteria(topic=...)` to get the specific levels (0-3) for that topic.

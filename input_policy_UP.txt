@@ -1,0 +1,191 @@
+DESPACHO N.° GR.12/10/2024
+Politica de Ciéncia Aberta (Open Science) na Universidade do Porto
+Em conformidade com o disposto no artigo 38.°, n.° 1, alinea g) dos Estatutos da
+Universidade do Porto, publicados em anexo ao Despacho Normativo n.° 8/2015, de 25
+de maio, e apos parecer favoravel do Conselho de Diretores, na sua reuniao 02 de
+outubro de 2024, aprovo a Politica de Ciéncia Aberta (Open Science) da Universidade
+do Porto, a qual vai em anexo ao presente despacho e que atualiza a Politica de
+10/09/2008.
+Universidade do Porto, 28 de outubro de 2024
+Praca
+Gomes
+TEIXEIRA,
+4099-002
+Porto
+EMAIL
+reitor@reit.up.pt UNIVERSIDADE DO
+PORTO.
+REITOR
+1
+POLÍTICA DE CIÊNCIA ABERTA (OPEN SCIENCE) DA UNIVERSIDADE DO PORTO
+28 de outubro de 2024
+Introdução
+A Ciência Aberta define-se como um conceito inclusivo que combina vários movimentos e práticas, que têm o objetivo de disponibilizar livremente o conhecimento científico multilíngue,
+torná-lo acessível e reutilizável por todos, aumentar as colaborações científicas e partilha de
+informações para o benefício da ciência e da sociedade, e abrir os processos de criação, avaliação e comunicação do conhecimento científico a atores da sociedade, além da comunidade científica. A Recomendação sobre Ciência Aberta da Organização das Nações Unidas para a Educação, a Ciência e a Cultura (UNESCO) exalta o papel da Ciência Aberta na resolução de desafios
+sociais, ambientais e económicos complexos e o contributo para o atingimento dos Objetivos de
+Desenvolvimento Sustentável (ODS) no contexto da Agenda 2030 para o Desenvolvimento Sustentável.
+O objetivo deste documento é o de definir a Política de Ciência Aberta na Universidade do Porto
+(U.Porto) e enquadrar a atividade dos estudantes, docentes, investigadores e não docentes da
+U.Porto, e das suas unidades de investigação associadas neste domínio. O documento tem natureza de norma interna de funcionamento, projetando os seus efeitos na comunidade U.Porto
+no âmbito da sua atividade de investigação.
+Capítulo I
+Disposições gerais
+Artigo 1º
+Âmbito de aplicação
+A Política de Ciência Aberta da U.Porto aplica-se a todos os estudantes, docentes, investigadores
+e não docentes que desenvolvem atividades de investigação e desenvolvimento na U.Porto. O
+termo "investigador" será utilizado ao longo do presente diploma para identificar os membros
+da U.Porto referidos neste ponto.
+Capítulo II
+Compromissos e responsabilidades
+Artigo 2º
+Compromissos e responsabilidades da Universidade do Porto
+1. A U.Porto reconhece os princípios fundamentais da Ciência Aberta: comunicação aberta,
+transparência da comunicação científica, e disponibilização, acesso e reutilização dos resultados da investigação.
+2. A U.Porto compromete-se com o avanço da Ciência e a ampla disseminação do conhecimento em benefício da sociedade, adotando práticas de investigação transparente, responsável, verificável e reproduzível.
+3. A U.Porto assegura que os resultados da investigação serão tão abertos quanto possível.
+4. A U.Porto reconhece o Acesso Aberto como um dos seus princípios orientadores e compromete-se a promovê-lo através do incentivo e do apoio aos processos e ferramentas de in-
+2
+vestigação que estimulem o trabalho colaborativo, fomentem a disseminação do conhecimento e a acessibilidade e reutilização dos resultados da investigação, encorajando o acesso
+aberto a publicações e dados.
+5. A U.Porto assegura que o seu repositório institucional de publicações científicas cumpre padrões de qualidade, garante a conformidade com os requisitos do Repositório Científico de
+Acesso Aberto de Portugal (RCAAP) e a adequação aos princípios FAIR (Findable, Accessible,
+Interoperable, and Reusable), promovendo a interoperabilidade com outras plataformas e
+uma política transparente de gestão do repositório, além da ligação ao European Open Science Cloud (EOSC).
+6. A U.Porto assegura que o seu repositório institucional de publicações científicas se encontra
+registado nos diretórios de repositórios digitais.
+7. A U.Porto assegura o cumprimento do artigo 50.º do Decreto-Lei n.º 74/2006, de 24 de
+março, na redação dada pelo Decreto-Lei n.º 115/2013, de 7 de agosto e da Portaria n.º
+285/2015, de 15 setembro, que regulam o depósito legal de teses, dissertações e outros
+trabalhos que confiram grau académico, efetuando o depósito de uma cópia digital destes
+documentos no Repositório Aberto da U.Porto, que integra a rede do Repositório Científico
+de Acesso Aberto de Portugal, operado pela Fundação para a Ciência e Tecnologia, I. P.
+8. A U.Porto adota os princípios da Ciência Aberta no que respeita aos artigos científicos e
+outras publicações (dissertações de mestrado e teses de doutoramento, relatórios técnicos
+e demais obras resultantes da atividade de investigação da sua comunidade académica e de
+investigação), aos materiais educacionais, ao código do software, aos relatórios de revisão
+por pares, e a outros materiais desenvolvidos no âmbito do trabalho científico, assim como
+no que se refere aos dados recolhidos, criados e processados e que constituem o suporte
+dos resultados publicados. No caso dos dados recolhidos, a U.Porto segue o Regulamento
+Geral de Proteção de Dados (RGPD), a Política de Proteção de Dados Pessoais e a Política de
+Privacidade da U.Porto.
+9. A U.Porto recomenda a inclusão, em todos os níveis de formação, da temática da Ciência
+Aberta e dos seus princípios orientadores.
+10. A U.Porto responsabiliza-se pelo cumprimento das regras de participação e difusão relacionadas com a Ciência Aberta, no contexto da participação em ações financiadas no âmbito
+do Programa-Quadro de Investigação e Inovação europeu.
+11. A U.Porto responsabiliza-se por apoiar e capacitar a transição para o Acesso Aberto/Ciência
+Aberta através de ações de formação e sensibilização direcionadas para os investigadores,
+nomeadamente no que respeita à apreensão do significado de Ciência Aberta e à aquisição
+de competências com ela relacionadas.
+12. A U.Porto responsabiliza-se por promover a publicação dos resultados da investigação (artigos científicos e outras publicações como, por exemplo, teses de doutoramento, e dos respetivos dados de suporte) em repositórios que se encontrem alinhados com os padrões internacionais de qualidade, designadamente no que se refere à disponibilização de informação em formato digital e de ferramentas avançadas de pesquisa, navegação, preservação,
+interoperabilidade e acesso aberto aos conteúdos.
+13. A U.Porto incentiva a utilização de identificadores persistentes DOI (Digital Object Identifier), ORCID (Open Researcher and Contributor IDentifier), ROR (Research Organization Registry) ou outros, bem como promove a sua atribuição aos conjuntos de dados aquando do 
+3
+respetivo depósito, com o objetivo de assegurar a estabilidade e a permanência da ligação
+entre os recursos informacionais independentemente das plataformas em que se encontrem alojados.
+14. A U.Porto pode promover a criação de grupos de trabalhos para a discussão estratégica de
+determinadas áreas da Ciência Aberta. Estes grupos deverão ter representantes das entidades constitutivas e instituições do ecossistema de investigação da U.Porto.
+15. A U.Porto sugere que as entidades constitutivas e instituições do ecossistema de investigação da U.Porto designem um Gestor de Ciência que deverá facultar orientação pertinente e
+adequada aos investigadores, desde a fase inicial de candidatura a projetos de investigação
+até ao depósito de dados. A sua ação deverá centrar-se em assuntos relacionados com dados, incluindo – mas não limitado – ao acompanhamento da elaboração de Planos de Gestão
+de Dados (PGD) e da sua conformidade com a legislação nacional e europeia, a curadoria e
+a publicação de dados. A U.Porto responsabiliza-se por apoiar e capacitar o Gestor de Ciência para as suas funções de suporte aos investigadores.
+16. A U.Porto compromete-se com o desenvolvimento e promoção de mecanismos e serviços
+para registo, depósito e partilha de dados em harmonia com os princípios FAIR, além de
+zelar pela sua preservação a longo prazo.
+17. A U.Porto compromete-se a disseminar a Política de Ciência Aberta nos seus canais de comunicação institucional e a monitorizar o seu cumprimento, através da integração de informações sobre um conjunto de indicadores relevantes neste domínio nos relatórios oficiais.
+18. A U.Porto compromete-se a colaborar com as entidades financiadoras de Ciência, as Entidades Constitutivas e os serviços responsáveis pela prestação de apoio à investigação, tendo
+em vista promover a sua qualidade e a adoção de práticas de Ciência Aberta em todas as
+áreas disciplinares.
+Artigo 3º
+Compromissos e responsabilidades dos investigadores
+Os investigadores devem:
+a. Gerir as suas publicações, dados da investigação e recursos educativos provenientes
+da atividade de docência, em conformidade com os princípios e requisitos expressos
+nesta Política e o Regulamento de Propriedade Intelectual da U.Porto.
+b. Observar os requisitos organizacionais, regulamentares, institucionais e demais requisitos legais e contratuais relacionados com a produção, a curadoria, o depósito,
+a gestão e a distribuição de publicações e de dados no caso de não existir outro
+acordo com terceiros que prevaleça sobre os primeiros.
+c. Associar aos resultados obtidos com a investigação uma licença Creative Commons
+ou licenciamento equivalente.
+d. Cumprir os princípios que regem o tratamento de dados incluídos no Plano de Gestão de Dados (PGD), sempre que a elaboração deste constitua um requisito obrigatório por parte de entidades financiadoras de projetos de investigação e inovação.
+e. Sempre que a elaboração de um PGD constitua um requisito obrigatório por parte
+de uma entidade financiadora, os investigadores responsáveis de projetos financia-
+4
+dos ficam vinculados a apresentar o PGD ao Gestor de Ciência da Entidade Constitutiva ou da instituição do ecossistema de investigação, no prazo definido pela entidade financiadora, e a proceder à sua atualização periódica.
+f. Disponibilizar aos serviços de apoio à investigação a que se encontram vinculados
+institucionalmente o acesso às versões mais atualizadas dos PGD referentes às investigações em curso.
+g. Proceder ao depósito dos dados de investigação num repositório confiável tão cedo
+quanto possível, desde que tal não comprometa o anonimato dos participantes da
+investigação nem infrinja o Regulamento Geral de Proteção de Dados (RGPD). Por
+confiáveis entende-se os repositórios europeus que seguem os princípios da ciência
+aberta, em alinhamento com as recomendações da norma ISO 16363 - Audit and
+certification of trustworthy digital repositories.
+Capítulo III
+Acesso Aberto a publicações e a dados de investigação
+Artigo 4º
+Acesso Aberto a publicações
+1. A U.Porto recomenda que os investigadores depositem no repositório institucional ou em
+qualquer outra infraestrutura apropriada uma cópia eletrónica do texto integral dos artigos
+publicados ou da versão final dos manuscritos revistos pelos pares juntamente com os metadados que lhes dizem respeito, antes, ao mesmo tempo ou depois da publicação.
+2. A U.Porto recomenda que, tratando-se de Acesso Aberto Verde, o texto completo de todas
+as publicações acima mencionadas seja público e disponibilizado de imediato sob uma licença padrão aberta. No que se refere a monografias, o depósito mantém-se obrigatório
+embora o acesso possa ser fechado, em conformidade com os períodos de embargo especificados.
+3. A U.Porto assegura que, no caso de publicações em acesso fechado, os metadados sejam
+disponibilizados de forma aberta para que as primeiras não percam visibilidade. Os metadados devem ser licenciados sob licença Creative Commons ou equivalente, de acordo com os
+princípios FAIR.
+4. A U.Porto incentiva os investigadores a conservar os seus direitos de autor e que apenas
+concedam aos editores os direitos necessários para publicação.
+5. A U.Porto incentiva os investigadores a depositar, no repositório institucional, publicações
+com data anterior à data de vigência da atual Política e a torná-las acessíveis, sempre que
+possível.
+Artigo 5º
+Acesso Aberto a dados de investigação
+1. A U.Porto recomenda aos investigadores que depositem os dados necessários à validação
+dos resultados apresentados em publicações científicas em repositórios que observem os
+princípios FAIR para que sejam Encontráveis, Acessíveis, Interoperáveis e Reutilizáveis. A
+colocação em prática desta recomendação deve assegurar o cumprimento dos contratos de 
+5
+confidencialidade previamente estabelecidos e respeitar as normas e preceitos que protegem a privacidade de dados, em conformidade com o Regulamento Geral de Proteção de
+Dados (RGPD) e as Políticas de Proteção de Dados Pessoais e de Privacidade da U.Porto.
+2. No pressuposto de que, por vezes, existe a necessidade de restringir o acesso aos dados
+para proteger direitos humanos e de propriedade intelectual, informação confidencial, dados pessoais, etc., a U.Porto encoraja os investigadores a utilizar ferramentas e métodos
+para gestão de dados de modo a que o máximo possível de dados possa ser partilhado.
+3. A U.Porto recomenda que a informação acerca das restrições ao acesso e à utilização de
+dados seja claramente explicitada nas próprias publicações a que deram origem e conste,
+também, dos metadados dos repositórios em que os dados tenham sido depositados.
+4. A U.Porto recomenda que os dados sejam mantidos pelo período de tempo definido pelas
+respetivas comunidades ou equipas de investigação, considerando as regras das entidades
+financiadoras de projetos de investigação e inovação, quando aplicável, e que o prazo de
+conservação seja contado a partir da data de atribuição de um identificador persistente. As
+ações de eliminação devem ter em consideração todas as perspetivas legais e éticas.
+Capítulo IV
+Formação e avaliação
+Artigo 6º
+Formação
+A U.Porto compromete-se a disponibilizar meios de capacitação e formação em Ciência Aberta,
+aos membros das Entidades Constitutivas e do seu ecossistema de investigação, incluindo os
+investigadores e os colaboradores que exerçam funções em serviços de apoio à investigação.
+Artigo 7º
+Avaliação da Investigação Científica
+A U.Porto promove a adoção de métricas responsáveis, em conformidade com os princípios de
+Ciência Aberta, em alinhamento com a Declaração para a Avaliação da Investigação (DORA), o
+Manifesto de Leiden e a Coalition for Advancing Research Assessment (CoARA).
+Capítulo V
+Articulação com o movimento de Ciência Cidadã
+Artigo 8º
+Ciência Cidadã
+1. A U.Porto encoraja ativamente as suas Entidades Constitutivas e o ecossistema de investigação a participar em projetos de Ciência Cidadã, tendo em vista o envolvimento dos cidadãos em atividades de investigação científica e desenvolvimento tecnológico.
+2. A U.Porto assegura formação interna para sensibilização e capacitação de todos quantos
+participem em projetos de natureza social e valoriza os curricula que registem ações dessa
+índole.
+6
+Capítulo VI
+Disposições finais
+Artigo 9.º
+Publicidade, entrada em vigor e revisão
+1. A presente Política será publicitada no sistema de informação da U.Porto, entrando em vigor
+nessa data.
+2. A presente Política pode ser revista e atualizada a todo o tempo, designadamente sempre
+que se verifiquem alterações na legislação e regulamentação aplicável ou se considere pertinente.
