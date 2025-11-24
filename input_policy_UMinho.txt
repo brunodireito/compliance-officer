@@ -1,0 +1,361 @@
+I. Enquadramento
+A Universidade do Minho (UMinho), nos seus Estatutos, assume como missão “gerar, difundir e aplicar
+conhecimento, assente na liberdade de pensamento e na pluralidade dos exercícios críticos”; o cumprimento
+da missão institucional realiza-se “num quadro de referência internacional, com base na centralidade da
+investigação”, através da prossecução de objetivos como a “realização de investigação, a divulgação dos seus
+resultados, a participação em instituições científicas e a promoção de eventos científicos, estimulando a busca
+permanente da excelência”.
+A procura permanente do alargamento das fronteiras do conhecimento humano define a atividade científica da
+UMinho que, para tal, toma como referência os princípios e as práticas de instituições e organizações com
+elevado reconhecimento internacional e colabora com centros de investigação de renome à escala global. Na
+sua atividade científica, a UMinho procura contribuir para o desenvolvimento social, económico e cultural das
+pessoas e do País, assumindo um quadro de valores éticos e de responsabilidades próprias de uma Instituição
+comprometida com o bem público.
+Através do presente documento, a UMinho compromete-se com a adoção de um amplo leque de orientações,
+consolidadas entre instituições e organizações de referência no campo da investigação científica, que,
+valorizando a abertura, transparência, reprodutibilidade, credibilidade, eficiência e qualidade da investigação,
+contribuem para o reforço do sistema científico e de um seu maior reconhecimento pelos cidadãos.
+Nas últimas décadas, o acesso aberto1 e a Ciência Aberta2 têm vindo a ser promovidas e adotadas por
+organizações internacionais, entidades governamentais, universidades e institutos de investigação, consórcios
+de universidades, agências de financiamento e de avaliação, sociedades científicas e plataformas de publicação
+científica.
+1 Por acesso aberto entende-se a disponibilização na Internet, através de revistas, repositórios ou outras plataformas de publicação, da literatura de
+caráter académico e científico, sem custos ou outras restrições ao acesso, sem a aplicação de períodos de embargo e com a possibilidade de
+reutilização do conteúdo das publicações.
+2 “A Ciência Aberta é um conjunto de princípios e práticas que visam tornar a investigação científica de todos os domínios acessível a todos, para
+benefício dos cientistas e da sociedade em geral; a Ciência Aberta visa garantir não só o acesso ao conhecimento científico, mas também que a
+própria produção desse conhecimento seja inclusiva, equitativa e sustentável” (UNESCO). Para uma definição mais completa ver a Recomendação
+da UNESCO sobre Ciência Aberta.
+POLÍTICA DE CIÊNCIA ABERTA DA UNIVERSIDADE DO MINHO
+Trata-se de um movimento muito amplo e com cada vez maior visibilidade e relevância, que tem vindo a alterar
+significativamente as condições de produção, divulgação e apropriação do conhecimento científico.
+A Recomendação da UNESCO sobre Ciência Aberta, aprovada em novembro de 2021, tem vindo a ser utilizada
+para orientar a definição de políticas e planos de ação em países dos diversos continentes.
+Na Europa, para além da definição de planos e estratégias nacionais de Ciência Aberta em diversos Estados-
+Membros, a União Europeia, através da Comissão e do Conselho, tem vindo a aprovar diversos documentos
+com orientações que visam estabelecer a Ciência Aberta como o modo padrão para a investigação europeia,
+de entre os quais cabe realçar: as Conclusões do Conselho Europeu sobre a transição para um regime de
+ciência aberta (2016), a Comunicação da Comissão Europeia “Um novo EEI para a Investigação e a Inovação”
+(2020), as Conclusões do Conselho Europeu sobre avaliação da investigação e aplicação da ciência aberta
+(2022), as Conclusões do Conselho Europeu sobre publicação académica de elevada qualidade, transparente,
+aberta, fidedigna e equitativa (2023), e a Revised Charter for access to research infrastructures to foster open
+science, innovation, and research security (2024).
+A Associação Europeia de Universidades tem trabalhado ativamente neste domínio desde 2014, no sentido de
+apoiar as universidades na transição para a Ciência Aberta, tendo aprovado, em 2022, a EUA Open Science
+Agenda 2025.
+A Aliança Europeia Arqus, de que a UMinho é membro, publicou, em 2022, o documento Arqus Openness
+Position Paper, em que a Aliança, em linha com as políticas, roteiros e estratégias da UE e de um vasto leque
+de parceiros, se compromete com iniciativas de concretização da Ciência Aberta.
+À semelhança de vários outros financiadores nacionais e europeus, nomeadamente dos que estão integrados
+na Coalition S3, em Portugal, a Fundação para a Ciência e a Tecnologia atualizou a sua política sobre o acesso
+aberto a publicações científicas resultantes de investigação financiada pela Fundação, e anunciou a uma nova
+política de gestão e partilha de dados de investigação.
+A UMinho tem sido, desde o início do século XXI, uma instituição profundamente comprometida com o acesso
+aberto ao conhecimento e com a Ciência Aberta, tendo sido pioneira no estabelecimento de um repositório
+institucional (RepositóriUM), em 2003, e de uma política institucional de autoarquivo da sua produção científica,
+em 2005, posteriormente revista em 2011. A UMinho afirmou-se como uma instituição de referência nestes
+domínios, a nível nacional e internacional: participou na criação, em 2008, e desde então na cocoordenação,
+3 A cOAlition S é um consórcio internacional de financiadores de investigação para apoiar o Plano S, uma iniciativa lançada em setembro de 2018,
+que exige que, a partir de 2021, as publicações científicas resultantes de investigação financiada por subvenções públicas sejam publicadas em
+acesso aberto imediato.
+2
+POLÍTICA DE CIÊNCIA ABERTA DA UNIVERSIDADE DO MINHO
+com a FCCN/FCT, da iniciativa RCAAP-Repositórios Científicos de Acesso Aberto de Portugal; desenvolveu
+diversas atividades de cooperação com entidades dos países lusófonos, como o Repositório Científico da CPLP;
+foi membro fundador de organizações internacionais como a COAR - Confederation of Open Access Repositories,
+o OpenAIRE AMKE e a CoARA - Coalition for Advancing Research Assessment; subscreveu as declarações de
+San Francisco sobre Avaliação da Investigação (DORA) e de Barcelona sobre Informação Aberta em
+Investigação.
+Considerando a crescente relevância da Ciência Aberta nas políticas de ciência e investigação, nos planos
+nacional e internacional, os desenvolvimentos que estas políticas vêm conhecendo, os requisitos e obrigações
+que decorrem das políticas nacionais e europeias neste domínio, com expressão nos termos de contratos de
+financiamento de investigação, o importante património de experiência da UMinho neste campo, bem como os
+objetivos previstos na Agenda para a Qualidade da Investigação e da Inovação, que integra o Plano de Ação
+2021-2025 da Universidade, entende-se ser este o momento de rever as orientações políticas da Instituição,
+desenvolvendo aquelas que se encontram em vigor e reafirmando o compromisso da UMinho com a Ciência
+Aberta.
+A política de Ciência Aberta da UMinho complementa e articula-se com outros documentos e orientações
+institucionais como o Código de Ética e Conduta, a Política de Privacidade, a Política de Proteção de Dados da
+Universidade e o seu Regulamento de Propriedade Intelectual.
+II. Âmbito, aplicação e responsabilidades
+A Política de Ciência Aberta da UMinho constitui um referencial para todos os membros da Universidade
+(docentes, investigadores e trabalhadores técnicos, administrativos e de gestão) que desenvolvem atividades e
+produzem resultados de investigação e desenvolvimento (como publicações e dados), bem como para os
+estudantes de mestrado e doutoramento, particularmente no que diz respeito às suas dissertações e teses.
+Nos casos em que a investigação é financiada por entidades terceiras (nacionais ou internacionais), os contratos
+e acordos de financiamento com essas entidades, relativos a direitos e obrigações de acesso, partilha, depósito
+e armazenamento, têm precedência sobre as presentes orientações. O estabelecimento de protocolos, acordos
+ou outros compromissos com entidades terceiras (como instituições de ensino e investigação, empresas ou
+outras organizações) deve respeitar, sempre que possível, o cumprimento das orientações da política de Ciência
+Aberta institucionalmente adotada.
+3
+POLÍTICA DE CIÊNCIA ABERTA DA UNIVERSIDADE DO MINHO
+Assim,
+1. É obrigação e responsabilidade dos membros da UMinho o cumprimento das presentes orientações, sem
+prejuízo da legislação em vigor em matéria de direitos de autor e direitos conexos, competindo-lhes
+nomeadamente:
+a) Gerir os seus resultados de investigação, como as publicações e dados, em conformidade com os
+princípios e requisitos expressos no presente documento;
+b) Depositar e disponibilizar no RepositóriUM os documentos previstos em III – Acesso Aberto a Publicações,
+cumprindo, quando aplicável, as obrigações de depósito legal;
+c) Assegurar que os dados de investigação são recolhidos, documentados e armazenados de acordo com
+padrões de qualidade rigorosos ao longo de todo o seu ciclo de vida, garantindo rigor e integridade em
+todos os aspetos da investigação;
+d) Cumprir os requisitos contratuais e legais relacionados com a produção, curadoria, depósito, gestão e
+distribuição de publicações e dados;
+e) Elaborar planos de gestão e abertura de dados, assegurando o cumprimento dos princípios que regem
+o tratamento de dados, em conformidade com as presentes orientações e os mandatos dos
+financiadores;
+f) Definir os termos de uso4 e escolher o tipo de licenciamento5 adequado para os resultados da
+investigação.
+2. É responsabilidade da UMinho divulgar a sua política de Ciência Aberta, bem como de todas as revisões e
+alterações de que esta venha a ser objeto, e garantir as condições para que ela possa ser cumprida por
+todos os seus membros, competindo-lhe especialmente:
+a) Disponibilizar as infraestruturas necessárias (nomeadamente repositórios para publicações e dados,
+plataformas de publicação e plataformas para planos de gestão de dados), de acordo com as normas e
+melhores práticas internacionais, garantindo a sua interoperabilidade e integração nas infraestruturas,
+redes e serviços dos ecossistemas nacionais e europeus (como RCAAP, OpenAIRE e EOSC);
+4 Os termos de uso definem e estabelecem as condições de acesso e utilização da informação disponibilizada.
+5 Associação de uma licença que especifica e padroniza os direitos e deveres dos utilizadores na utilização dos resultados de investigação.
+4
+POLÍTICA DE CIÊNCIA ABERTA DA UNIVERSIDADE DO MINHO
+b) Oferecer serviços de apoio e consultoria, em particular relativos ao acesso aberto a publicações e gestão
+de dados de investigação, fomentando a adoção de boas práticas como o uso de identificadores
+persistentes (DOI, CienciaID, ORCiD ou outros) e dos princípios FAIR6;
+c) Proporcionar formação sobre a Ciência Aberta e os seus diversos componentes, através de ações de
+formação contínua e da inclusão de conteúdos com ela relacionados nos currículos dos ciclos de estudos
+conferentes dos graus de mestre e de doutor, bem como nos programas de acolhimento institucional
+dos novos docentes e investigadores.
+3. No sentido de promover e estimular a adoção das práticas de Ciência Aberta na sua comunidade, a UMinho,
+com o envolvimento e a participação ativa das suas Unidades Orgânicas, assume ainda o compromisso de:
+a) Incorporar as práticas de Ciência Aberta nos critérios de avaliação da investigação, de recrutamento e
+progressão na carreira de docentes e investigadores;
+b) Monitorizar, através de indicadores adotados pela Instituição, o cumprimento das presentes orientações
+ao nível da Universidade e das suas Unidades e Subunidades Orgânicas, divulgando regularmente os
+resultados registados;
+c) Participar e contribuir (com recursos humanos e/ou financeiros, quando adequado) em projetos e
+organizações que visam promover e apoiar a Ciência Aberta, em particular relacionadas com
+infraestruturas e serviços não comerciais, geridos e sustentados por instituições e comunidades de
+investigação.
+III. Acesso aberto a publicações
+1. A política de acesso aberto aplica-se às publicações científicas e académicas dos membros da UMinho,
+designadamente:
+a) Artigos científicos sujeitos a processos de revisão ou validação científica por pares (peer review ), incluindo
+artigos de revisão, comunicações em conferências e outros textos, como preprints , sujeitos a um
+processo de revisão por pares independente de um processo de publicação em revista, com validação
+implícita ou explícita;
+b) Livros, capítulos de livros e monografias sujeitas a peer review ;
+6 Os princípios foram definidos em “The FAIR Guiding Principles for scientific data management and stewardship”. A Comissão Europeia adota estes
+princípios como diretrizes para a política de Ciência Aberta no Horizonte Europa.
+5
+POLÍTICA DE CIÊNCIA ABERTA DA UNIVERSIDADE DO MINHO
+c) Dissertações de mestrado, teses de doutoramento e trabalhos de natureza científica ou pedagógica
+submetidos no âmbito de provas ou concursos académicos, desde que aprovados pela UMinho;
+d) Patentes.
+2. Sem prejuízo da legislação em vigor em matéria de direitos de autor e direitos conexos, os docentes e
+investigadores devem, em regra, depositar no RepositóriUM, em acesso aberto:
+a) Uma cópia eletrónica, legível por máquina, do texto integral (artigo publicado ou manuscrito final revisto
+por pares) dos seus artigos científicos (ver 1.a), antes ou ao mesmo tempo da sua publicação, a
+disponibilizar de imediato e publicamente, preferencialmente ao abrigo de uma licença aberta
+normalizada, como a CC-BY7
+. Admite-se a existência de um período de embargo até 24 meses, no caso
+de artigos publicados em revistas que o exijam, desde que não contrariem as disposições do contrato de
+financiamento, caso resultem de projetos financiados.
+b) Uma cópia eletrónica, legível por máquina, do texto integral (versão publicada ou manuscrito final revisto
+por pares) dos seus livros, capítulos de livros e monografias (ver 1.b), aquando da sua publicação, a
+disponibilizar, sempre que possível, imediata e publicamente, preferencialmente ao abrigo de uma
+licença aberta normalizada (como CC-BY, CC-BY-NC, CC-BY-ND ou CC-BY-NC-ND8). Serão autorizadas
+restrições de acesso e períodos de embargo, nos termos de eventuais contratos de edição, mais comuns
+na área das Ciências Sociais e Humanas, desde que os mesmos não contrariem as disposições do
+contrato de financiamento, caso resultem de projetos financiados.
+c) Uma cópia eletrónica, legível por máquina, do texto integral das patentes de que sejam inventores,
+devendo o respetivo texto ser disponibilizado publicamente. Admite-se a existência de um período de
+embargo até 24 meses, para efeitos de registo da patente.
+3. Os autores de dissertações de mestrado, teses de doutoramento e trabalhos de natureza científica ou
+pedagógica, submetidos no âmbito de provas ou concursos académicos, devem autorizar o seu depósito no
+RepositóriUM, e, por norma, o acesso aberto imediato aos seus trabalhos. Nos casos em que estes trabalhos
+incluam dados sensíveis dos contextos estudados, podem os mesmos ser incluídos num anexo, que
+beneficiará de embargo, ou anonimizados; as condições de divulgação destes dados devem ser, em
+qualquer caso, previstas em protocolos celebrados com as entidades objeto de estudo.
+7 A Licença Creative Commons CC-BY (https://creativecommons.org/licenses/by/4.0/legalcode) permite partilhar (copiar e redistribuir o material
+em qualquer suporte ou formato) e adaptar (transformar e criar a partir do material) para qualquer fim, mesmo que comercial, desde que seja
+atribuído o devido crédito ao autor.
+8 A informação sobre cada uma das licenças Creative Commons encontra-se disponível em https://creativecommons.org/licenses.
+6
+POLÍTICA DE CIÊNCIA ABERTA DA UNIVERSIDADE DO MINHO
+4. Para efeitos do disposto no número anterior, os autores podem beneficiar;
+a) de um período de embargo até 24 meses, para efeito de preparação de publicações a partir do conteúdo
+da dissertação de mestrado, da tese de doutoramento ou do trabalho de natureza científica ou
+pedagógica;
+b) de acesso restrito ao autor, nos casos em que a disponibilização em acesso aberto seja incompatível
+com um contrato de edição que tenha por objeto, total ou parcialmente, a dissertação de mestrado, a
+tese de doutoramento ou o trabalho de natureza científica ou pedagógica.
+5. Os metadados (a descrição bibliográfica) de todas as publicações depositadas no RepositóriUM ao abrigo
+destas orientações são disponibilizados imediata e publicamente com uma licença CC0 ou equivalente.
+6. Para efeitos de avaliação individual ou institucional da produção de investigação da Instituição e dos seus
+membros, a UMinho apenas considera como publicações aquelas cujos metadados estejam depositados no
+RepositóriUM, de acordo com os requisitos acima referidos.
+7. Quando um investigador da Universidade colabore com parceiro(s) externo(s), devem os investigadores
+acordar entre si as principais decisões sobre o acesso aberto às suas publicações.
+8. Com a exceção das dissertações, teses e documentos de natureza científica ou pedagógica submetidos no
+âmbito de provas ou concursos académicos, cujo depósito é assegurado pelos serviços da Universidade, os
+membros da UMinho são responsáveis pelo depósito atempado das suas publicações no RepositóriUM, que
+deve sempre ser realizado, mesmo nos casos em que estas ocorram em plataformas ou revistas de acesso
+aberto ou híbridas9
+.
+IV. Acesso aberto a dados de investigação e respetiva gestão
+A UMinho estabelece requisitos e recomendações para a gestão e abertura de dados para assegurar que os
+dados de investigação são recolhidos, documentados e armazenados pelos investigadores da Universidade de
+acordo com padrões de qualidade rigorosos ao longo do ciclo de vida dos dados, garantindo rigor e integridade
+em todos os aspetos da sua investigação.
+9 Consideram-se revistas híbridas as que combinam artigos publicados em acesso fechado (acesso por assinatura ou pay- per-view ), com artigos
+publicados em acesso aberto, mediante o pagamento de uma taxa de publicação ou APC (Article Processing Charge).
+7
+POLÍTICA DE CIÊNCIA ABERTA DA UNIVERSIDADE DO MINHO
+Assim,
+1. As orientações relativas à gestão10 e abertura de dados11 de investigação aplicam-se aos dados recolhidos,
+criados ou reutilizados no âmbito de projetos de investigação financiados.
+2. A UMinho considera que a gestão e abertura dos dados de investigação é uma componente essencial da
+integridade da investigação e que é promotora de práticas de investigação replicáveis, transparentes e de
+rigor ético, em linha com o Código de Ética e Conduta da UMinho.
+3. A UMinho requer que sejam apresentados planos de gestão e abertura de dados, em plataforma da UMinho
+sempre que possível, ou noutra quando adequado, especificando como e quando os dados de investigação
+serão disponibilizados para acesso e reutilização, indicando as medidas de controlo da qualidade dos dados,
+do seu armazenamento durante o processo de investigação, da sua segurança, do cumprimento da
+legislação relativa aos dados pessoais e à proteção dos dados, da gestão dos direitos de propriedade
+intelectual, bem como os princípios éticos e códigos de conduta seguidos.
+4. A UMinho requer que os investigadores depositem os dados necessários para validar os resultados
+apresentados nas publicações científicas num repositório confiável, preferencialmente no repositório
+institucional da UMinho, o DataRepositóriUM, ou num repositório disciplinar adequado. Os dados devem ser
+fornecidos com identificadores persistentes, ser abertos e partilhados sempre e logo que possível, de acordo
+com o princípio “tão aberto quanto possível, tão fechado quanto necessário” , definir os direitos de utilização
+através da atribuição de licenças adequadas, licença CC BY ou CC0 (ou equivalente), e, sempre que possível,
+associados às publicações.
+5. A UMinho recomenda que outros dados recolhidos e processados em atividades de investigação sejam
+tratados de acordo com os princípios abertos e de dados FAIR (ou seja, localizáveis, acessíveis,
+interoperáveis e reutilizáveis) e depositados no DataRepositóriUM ou noutro repositório disciplinar confiável,
+devendo os dados ser rastreáveis e disponíveis para utilização posterior, sempre que possível. Recomenda-
+se ainda que os dados arquivados ou disponibilizados em serviços externos à UMinho sejam registados no
+catálogo do DataRepositóriUM.
+6. A UMinho recomenda que seja definido um período adequado para o armazenamento dos dados, de acordo
+com as práticas das comunidades disciplinares ou requisitos dos financiadores. A duração mínima de
+10 Por gestão dos dados de investigação (GDI) entende-se a organização, armazenamento e preservação dos dados criados durante um projeto de
+investigação, abrangendo o planeamento inicial, os processos de documentação, armazenamento e análise e a preservação e partilha a longo
+prazo, ou ainda a sua eliminação.
+11 Entende-se por dados de investigação a informação digital ou analógica que é recolhida, criada ou reutilizada para produzir, validar ou enriquecer
+os resultados e conclusões da investigação.
+8
+POLÍTICA DE CIÊNCIA ABERTA DA UNIVERSIDADE DO MINHO
+arquivo dos dados de investigação é de 10 anos após a atribuição de um identificador persistente. No caso
+de estes registos terem de ser apagados ou destruídos após o termo da duração de arquivo requerida ou
+por razões legais e éticas, devem ser ponderadas todas as implicações daí decorrentes
+7. A responsabilidade pela gestão dos dados durante qualquer projeto de investigação cabe aos investigadores
+responsáveis ou aos investigadores envolvidos. Para tal,
+a) O investigador responsável deve escolher métodos e plataformas ou serviços de apoio à gestão de dados
+que sejam compatíveis com as orientações agora adotadas pela Universidade e que cumpram os
+requisitos da agência financiadora do projeto;
+b) Os investigadores devem estar familiarizados com os serviços da UMinho disponíveis para apoiar a gestão
+de dados e respeitar a Política de Privacidade e a Política de Proteção de Dados da Universidade;
+c) Quando um investigador da Universidade colabora com parceiro(s) externo(s), devem os investigadores
+acordar entre si os direitos e responsabilidades de cada parte relativamente aos dados recolhidos,
+incluindo as principais decisões sobre armazenamento de dados, cópias de segurança, acesso,
+licenciamento e preservação;
+d) Os estudantes de pós-graduação envolvidos em investigação estão vinculados à política e aos
+procedimentos da Universidade e são responsáveis pela integridade dos dados que recolhem e utilizam.
+V. Ciência cidadã e interação com a sociedade
+A UMinho reconhece que a investigação e inovação responsáveis beneficiam do envolvimento dos cidadãos e
+da sociedade, que facilita a resposta aos desafios societais contemporâneos e ajuda ao reconhecimento social
+da atividade científica. Por isso, a UMinho quer fomentar a participação dos seus membros em projetos de
+ciência cidadã12
+.
+A UMinho identifica-se com os princípios da ciência cidadã13, definidos pela European Citizen Science
+Association (ECSA), e apoia o desenvolvimento de projetos e atividades de ciência cidadã de acordo com esses
+princípios; nesse sentido:
+1. Disponibiliza infraestruturas e serviços de apoio (como repositórios ou outras ferramentas) para a recolha e
+registo dos dados e resultados de atividades de ciência cidadã;
+12 Os projetos e atividades de ciência cidadã, para as quais os cidadãos “contribuem ativamente com o seu esforço intelectual, com o seu
+conhecimento, ou com as suas ferramentas e recursos” (cf. https://www.cienciacidada.pt) podem assumir várias formas, desde a simples
+contribuição dos cidadãos (por exemplo através da recolha de dados) até à cocriação, na qual os cidadãos participam no desenho dos projetos e
+na maioria das suas atividades
+13 ECSA (European Citizen Science Association). 2015. Berlin.
+9
+POLÍTICA DE CIÊNCIA ABERTA DA UNIVERSIDADE DO MINHO
+2. Promove a formação de docentes, investigadores e estudantes, no sentido de sensibilizar e reforçar as
+capacidades de participação dos membros da Universidade em projetos para e com a sociedade;
+3. Reconhece a participação de docentes e investigadores em projetos de ciência cidadã, incluindo essa
+participação nos regulamentos e critérios de avaliação de desempenho;
+4. Promove a participação dos estudantes associando, sempre que possível, os projetos de ciência cidadã ao
+desenvolvimento dos currículos, incluindo os estudantes na fase de conceção desses projetos e
+reconhecendo a sua participação no Suplemento ao Diploma.
+VI. Outras dimensões da Ciência Aberta
+1. Código aberto
+A UMinho incentiva a utilização de software de código aberto14, em particular nos casos em que o código e/ou
+o software fazem parte do processo e dos resultados da investigação, pois a sua partilha é importante para
+tornar a investigação verificável e estimular práticas de reutilização e a colaboração.
+A UMinho espera que os seus investigadores utilizem software livre e de código aberto sempre que estiverem
+disponíveis opções de alta qualidade, interoperáveis e seguras.
+A UMinho espera que o código e o software criados pelos seus investigadores sejam partilhados com uma
+licença de fonte aberta adequada, incentivando e promovendo práticas que garantam a reprodutibilidade das
+análises de dados e de todos os outros processos dependentes de código e software .
+2. Recursos educativos abertos
+A UMinho considera os recursos educativos abertos15 como parte da sua produção intelectual e importante
+modo de disseminação do conhecimento produzido. A UMinho tem como objetivo que os seus membros
+desenvolvam, publiquem e utilizem recursos educativos abertos como parte integrante de um ensino baseado
+na investigação e como forma de melhorar a educação e reforçar as oportunidades de aprendizagem para
+todos.
+Nesse sentido a UMinho:
+a) Disponibiliza infraestruturas para a partilha de recursos educativos abertos;
+14 Software de código aberto é o software de computador cujo código fonte é disponibilizado e licenciado com uma licença de código aberto que
+permite estudar, modificar, portar para outros sistemas operativos, partilhar e distribuir o software .
+15 Os recursos educativos abertos são recursos desenvolvidos para fins pedagógicos disponibilizados digitalmente com licenças que permitem a
+partilha e reutilização.
+10
+POLÍTICA DE CIÊNCIA ABERTA DA UNIVERSIDADE DO MINHO
+b) Oferece aos seus membros a formação e a orientação necessárias, nomeadamente em matéria de
+direitos de autor e de questões técnicas relativas à produção, arquivo, e publicação, bem como à
+utilização e partilha de recursos educativos abertos.
+Os membros da UMinho devem assegurar que o desenvolvimento, a utilização e a partilha de recursos
+educativos abertos estejam de acordo com os valores e a reputação da Instituição.
+3. Inovação aberta
+A inovação aberta é um conceito de gestão de inovação e do conhecimento em redes de colaboração de
+investigação aberta entre a academia e as empresas, para o desenvolvimento de novos produtos e serviços,
+com vista à aceleração dos ciclos de inovação, por oposição a projetos de cooperação fechados.
+A UMinho promove a inovação aberta em consórcios e redes de colaboração nacionais e internacionais; nesse
+sentido:
+a) Utiliza ativamente o potencial de colaboração do seu ecossistema de inovação, envolvendo a participação
+em interfaces, centros de tecnologia e inovação, laboratórios colaborativos, clusters de competitividade
+e a colaboração com atores empresariais e o sector público;
+b) Promove e estimula o interesse e o conhecimento sobre a inovação aberta na Instituição;
+c) Incorpora princípios da ciência aberta na cultura e nas práticas de inovação na Instituição;
+d) Assegura a proteção dos direitos de propriedade intelectual nos processos de inovação aberta em que a
+participa.
+4. Outras práticas de investigação e Ciência Aberta
+A UMinho apoia, estimula e reconhece nos seus critérios e processos de avaliação todas as práticas que
+promovam a abertura, transparência, reprodutibilidade, credibilidade e qualidade da investigação.
+Entre outras práticas recomendadas, incluem-se o pré-registo (preregistration ) da investigação e partilha de
+protocolos, a publicação de preprints , a revisão por pares aberta, a publicação de resultados negativos e não
+intencionais de estudos originais e de replicação, entre outras.
+11
+POLÍTICA DE CIÊNCIA ABERTA DA UNIVERSIDADE DO MINHO
+VII. Alinhamento das práticas de avaliação dos docentes e investigadores com os princípios da
+Ciência Aberta
+A UMinho foi uma das subscritoras iniciais do Acordo sobre a Reforma da Avaliação da Investigação16 e uma
+das organizações fundadoras da CoARA (Coalition for Advancing Research Assessment), assumindo os
+princípios e os compromissos que lhe estão subjacentes.
+Nesse sentido, a UMinho compromete-se a
+1. Rever os seus critérios, regulamentos, processos e ferramentas de avaliação dos docentes e investigadores,
+a) Reconhecendo a diversidade dos contributos, carreiras e áreas disciplinares;
+b) Dando primazia à avaliação qualitativa, suportada por um uso responsável de indicadores quantitativos;
+c) Evitando práticas de avaliação da investigação baseadas exclusivamente em métricas relativas a revistas
+e publicações, em particular o fator de impacto (JIF) e o h-index;
+d) Evitando o uso de rankings de organizações na avaliação;
+e) Valorizando a utilização das diversas práticas de ciência aberta contempladas nas presentes orientações.
+2. Iniciar um processo de revisão dos critérios, processos e regulamentos de avaliação da investigação,
+publicando um plano de ação com metas e calendário definidos.
+VIII. Monitorização e revisão da Política de Ciência Aberta
+A implementação e os resultados da Política de Ciência Aberta da UMinho serão monitorizados com recurso
+aos dados existentes nas plataformas institucionais e agregados no Portal de Investigação da Instituição, através
+da elaboração e publicação de um relatório anual.
+Nesse sentido, será criada, por despacho reitoral, uma comissão de acompanhamento e monitorização da
+Política de Ciência Aberta, coordenada por um Vice-Reitor e integrando representantes das Unidades Orgânicas
+e das Unidades de Serviços envolvidas no apoio à Ciência Aberta

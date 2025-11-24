@@ -5,7 +5,7 @@ import numpy as np
 INPUT_FILE = "compliance_report.md"
 
 def parse_report(filename):
-    """Extracts Topic names and Maturity Levels (0-3) from the Markdown."""
+    """Extracts Topic names and Maturity Levels (0-2) from the Markdown."""
     data = {}
     with open(filename, "r") as f:
         content = f.read()
@@ -49,9 +49,9 @@ def create_radar_chart(data):
     ax.fill(angles, values, color='#1a73e8', alpha=0.25)
     
     # Fix axis to 0-5 levels
-    ax.set_ylim(0, 3)
-    ax.set_yticks([0, 1, 2, 3])
-    ax.set_yticklabels(["0", "1", "2", "3"], color="grey", size=10)
+    ax.set_ylim(0, 2)
+    ax.set_yticks([0, 1, 2])
+    ax.set_yticklabels(["0", "1", "2"], color="grey", size=10)
     
     # Labels
     ax.set_xticks(angles[:-1])

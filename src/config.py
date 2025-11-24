@@ -4,7 +4,7 @@ import pathlib
 # --- 🔑 API KEY CONFIGURATION ---
 # Paste your key inside the quotes below.
 # This sets it for the entire application session.
-os.environ["GEMINI_API_KEY"] = "AIzaSyAZkCxjRIAZkbFwoW9jgrSadkhawozgexo"
+os.environ["GEMINI_API_KEY"] = "AIzaSyAwlaKnxgwmgx1dVpL3xFCb7htOewNxgic"
 
 # --- PATHS ---
 # Defines where the project root and data files are located
